@@ -3,4 +3,4 @@ A rock paper scissors project
 
 
 ## Demo
-https://hetdelwadiya-i9.github.io/rock-paper-scissors/
+https://projects.hetdelwadiya.dev/rock-paper-scissors/
